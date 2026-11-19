@@ -1,0 +1,4 @@
+node_modules/
+.DS_Store
+# local notes for the application form, not part of the solution
+submission-answers.md

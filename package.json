@@ -1,0 +1,17 @@
+{
+  "name": "download-speed-meter",
+  "version": "1.0.0",
+  "description": "CLI that downloads a URL 10 times in a row and prints average request time, total size and download speed",
+  "type": "module",
+  "bin": {
+    "download-speed-meter": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
